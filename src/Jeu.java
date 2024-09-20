@@ -3,7 +3,7 @@ public class Jeu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// first commmit to pc to guitHub
 		Scanner scan = new Scanner(System.in);
 		// list of word in the array
 		String[] motMystere = {"camion",
